@@ -4,8 +4,13 @@
 [My Github page](http://gabrieltsants.github.io)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsants&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![gif animation](https://i.gifer.com/origin/4c/4cc1933d92c2c59e9d473a0bfe257271.gif)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsants&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <br>
+  <img src="https://i.gifer.com/origin/4c/4cc1933d92c2c59e9d473a0bfe257271.gif">
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
